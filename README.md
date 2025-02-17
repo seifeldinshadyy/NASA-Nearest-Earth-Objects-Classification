@@ -1,6 +1,6 @@
 # NASA-Nearest-Earth-Objects-Classification
 Project Overview:
-This project aims to classify whether a Near-Earth Object (NEO) is hazardous or not using machine learning techniques. The dataset, sourced from NASA, contains detailed information about asteroids from 1910 to 2024.
+This project aims to classify whether a Near-Earth Object (NEO) is hazardous or not using machine learning techniques. The dataset, sourced from NASA, contains detailed information about asteroids from 1910 to 2024. 
 
 Objectives
 
