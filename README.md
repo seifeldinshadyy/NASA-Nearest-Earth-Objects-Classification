@@ -14,6 +14,7 @@ Dataset Details
 
 Source: NASA Nearest Earth Objects (1910-2024) dataset
 Target Variable: is_hazardous (1 = Hazardous, 0 = Non-Hazardous)
+
 Key Features:
 1.absolute_magnitude
 2.estimated_diameter_min, estimated_diameter_max
