@@ -44,5 +44,4 @@ Methodology
 Results & Key Findings
 The dataset was highly imbalanced, requiring SMOTE for better model training.
 Featureimportance analysis showed that miss_distance and relative_velocity significantly impact classification.
-
 The Random Forest model achieved a strong AUC-ROC score, making it reliable for identifying hazardous objects.
