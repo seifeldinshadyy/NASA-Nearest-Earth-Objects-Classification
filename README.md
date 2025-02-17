@@ -53,7 +53,7 @@ This project aims to classify whether a Near-Earth Object (NEO) is hazardous or 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nasa-neo-classification.git
+   git clone https://github.com/seifeldinshadyy/NASA-Nearest-Earth-Objects-Classification.git
 
 Results & Key Findings
 The dataset was highly imbalanced, requiring SMOTE for better model training.
